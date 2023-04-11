@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1001,
+    "name": "John Smith",
+    "department": "Marketing",
+    "salary": 55000
+  },
+  {
+    "id": 1002,
+    "name": "Emily Johnson",
+    "department": "Human Resources",
+    "salary": 60000
+  },
+  {
+    "id": 1003,
+    "name": "David Davis",
+    "department": "Sales",
+    "salary": 70000
+  },
+  {
+    "id": 1004,
+    "name": "Karen Lee",
+    "department": "Finance",
+    "salary": 80000
+  },
+  {
+    "id": 1005,
+    "name": "Michael Chen",
+    "department": "IT",
+    "salary": 90000
+  },
+  {
+    "id": 1006,
+    "name": "Sarah Williams",
+    "department": "Marketing",
+    "salary": 60000
+  },
+  {
+    "id": 1007,
+    "name": "Jason Rodriguez",
+    "department": "Sales",
+    "salary": 75000
+  },
+  {
+    "id": 1008,
+    "name": "Karen Brown",
+    "department": "Human Resources",
+    "salary": 65000
+  },
+  {
+    "id": 1009,
+    "name": "Christopher Smith",
+    "department": "IT",
+    "salary": 95000
+  },
+  {
+    "id": 1010,
+    "name": "Jennifer Davis",
+    "department": "Finance",
+    "salary": 85000
+  },
+  {
+    "id": 1011,
+    "name": "Andrew Nguyen",
+    "department": "Sales",
+    "salary": 70000
+  },
+  {
+    "id": 1012,
+    "name": "Jessica Kim",
+    "department": "Marketing",
+    "salary": 55000
+  },
+  {
+    "id": 1013,
+    "name": "Daniel Lee",
+    "department": "IT",
+    "salary": 100000
+  },
+  {
+    "id": 1014,
+    "name": "Melanie Johnson",
+    "department": "Human Resources",
+    "salary": 60000
+  },
+  {
+    "id": 1015,
+    "name": "William Davis",
+    "department": "Finance",
+    "salary": 90000
+  },
+  {
+    "id": 1016,
+    "name": "Amanda Brown",
+    "department": "Marketing",
+    "salary": 65000
+  },
+  {
+    "id": 1017,
+    "name": "Robert Rodriguez",
+    "department": "IT",
+    "salary": 80000
+  },
+  {
+    "id": 1018,
+    "name": "Megan Lee",
+    "department": "Sales",
+    "salary": 70000
+  },
+  {
+    "id": 1019,
+    "name": "Thomas Smith",
+    "department": "Finance",
+    "salary": 95000
+  },
+  {
+    "id": 1020,
+    "name": "Elizabeth Davis",
+    "department": "Human Resources",
+    "salary": 55000
+  }
+]
